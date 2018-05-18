@@ -1,0 +1,14 @@
+creation_fichier /user/christian/fichierChristian le fichier christian a ete recree apres avoir ete supprime. le fait qu'il porte le meme nom que l'ancien fichier ne cause aucun probleme.
+
+lire_fichier /fichierRacine1
+lire_fichier /fichierRacine2
+lire_fichier /public/fichier.txt
+lire_fichier /os/fichier.o
+lire_fichier /user/sarah/fichierSarah
+lire_fichier /user/christian/fichierChristian
+lire_fichier /user/dominique/fichierDominique
+lire_fichier /user/sarah/images/image.png
+lire_fichier /user/sarah/images/image2.png
+lire_fichier /user/sarah/musique/file.mp3
+lire_fichier /user/dominique/uni/Makefile
+lire_fichier /user/dominique/uni/tp1.c

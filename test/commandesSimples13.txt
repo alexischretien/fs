@@ -1,0 +1,2 @@
+creation_fichier /fichierEspace.txt Ceci est une phrase.
+lire_fichier /fichierEspace.txt

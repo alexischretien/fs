@@ -1,0 +1,56 @@
+creation_fichier /f1.txt f1
+creation_fichier /f2.txt f2
+creation_fichier /f3.txt f3
+creation_fichier /f4.txt f4
+creation_fichier /f5.txt f5
+creation_fichier /f6.txt f6
+creation_fichier /f7.txt f7
+creation_fichier /f8.txt f8
+creation_fichier /f9.txt f9
+creation_fichier /fichier10.txt f10
+creation_fichier /fichier11.txt f11
+creation_fichier /fichier12.txt f12
+creation_fichier /fichier13.txt f13
+creation_fichier /fichier14.txt f14
+creation_fichier /fichier15.txt f15
+creation_fichier /fichier16.txt f16
+creation_fichier /fichier17.txt f17
+creation_fichier /fichier18.txt f18
+creation_fichier /fichier19.txt f19
+creation_fichier /fichier20.txt f20
+creation_fichier /fichier21.txt f21
+creation_fichier /fichier22.txt f22
+creation_fichier /fichier23.txt f23
+creation_fichier /fichier24.txt f24
+creation_fichier /fichier25.txt f25
+creation_fichier /fichier26.txt f26
+creation_fichier /fichier27.txt f27
+creation_fichier /fichier28.txt f28
+creation_fichier /fichier29.txt f29
+creation_fichier /fichier30.txt f30
+creation_fichier /fichier31.txt f31
+creation_fichier /fichier32.txt f32
+creation_fichier /fichier33.txt f33
+creation_fichier /fichier34.txt f34
+
+suppression_fichier /f1.txt
+suppression_fichier /f3.txt
+suppression_fichier /f5.txt
+suppression_fichier /f7.txt
+suppression_fichier /f9.txt
+suppression_fichier /fichier11.txt
+suppression_fichier /fichier13.txt
+suppression_fichier /fichier15.txt
+suppression_fichier /fichier17.txt
+suppression_fichier /fichier19.txt
+suppression_fichier /fichier21.txt
+suppression_fichier /fichier23.txt
+suppression_fichier /fichier25.txt
+suppression_fichier /fichier27.txt
+suppression_fichier /fichier29.txt
+suppression_fichier /fichier31.txt
+suppression_fichier /fichier33.txt
+
+creation_fichier /fichierFrag.txt bloc1***********bloc2***********bloc3***********bloc4***********bloc5***********bloc6***********bloc7***********bloc8***********bloc9***********bloc10**********bloc11**********bloc12**********bloc13**********bloc14**********bloc15**********bloc16**********
+
+lire_fichier /fichierFrag.txt

@@ -1,0 +1,2 @@
+creation_fichier /fichier8.txt 0000000000000000000000000000000000000008
+lire_fichier /fichier8.txt

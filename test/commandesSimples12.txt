@@ -1,0 +1,3 @@
+creation_repertoire /repertoire1
+creation_fichier /repertoire1/fichier12 00000012
+lire_fichier /repertoire1/fichier12

@@ -1,0 +1,2 @@
+creation_fichier /fichierExisteDeja fichier_existe_deja
+creation_fichier /fichierExisteDeja autre_contenu

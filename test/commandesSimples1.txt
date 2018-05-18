@@ -1,0 +1,3 @@
+creation_fichier /fichier1.txt 1
+lire_fichier /fichier1.txt
+
